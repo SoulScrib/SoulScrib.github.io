@@ -1,2 +1,2 @@
 # SoulScrib.github.io
-This is a test repository for use seeing how it works.
+This is a test to see how it works.
